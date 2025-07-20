@@ -1,0 +1,77 @@
+.banner-section{
+	background:url(../images/banner3.jpg)no-repeat 0px 0px;
+	background-size:cover;
+	-o-background-size:center;
+	-moz-background-size:cover;
+	min-height: 900px;
+}
+.banner-head {
+	width: 100%;
+	margin: 4% 0 auto 0;
+}
+.banner-head  h1{
+	font-family: 'Arial', bold;
+	color:#dd4014;
+	font-size: 4.0em;
+	text-transform: uppercase;
+}
+.banner-head p{
+	color: #1d1919;
+	font-family: 'Lato', sans-serif;
+	font-size: 1.1em;
+	margin: 1em 0 0 0;
+	font-weight: 400;
+	line-height: 1.9em;
+}
+.top-nav ul li a {
+    color: #fff;
+    padding: 0.6em 0;
+    font-size:1.5em;
+    text-align: center;
+    }
+
+    .sub-header {
+        background: #df321b;
+        border-top: 10px solid#ff9900;
+        padding-bottom: 14px ;
+    }
+	.container {
+		max-width: 600px;
+		margin: 0 auto;
+		padding: 20px;
+	}
+	
+	form label {
+		display: block;
+		margin-bottom: 5px;
+	}
+	
+	form input,
+	form select,
+	form textarea {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	
+	button {
+		background-color: #007bff;
+		color: #fff;
+		border: none;
+		padding: 10px 20px;
+		cursor: pointer;
+	}
+	
+	.testimonial {
+		margin-bottom: 20px;
+		border-bottom: 1px solid #ccc;
+		padding-bottom: 10px;
+	}
+	
+	.rating {
+		color: #f1c40f;
+	}
+	
+    .top-log{
+		float:left;
+		margin-left:10px;
+	}
